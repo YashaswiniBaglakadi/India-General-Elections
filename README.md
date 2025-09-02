@@ -1,4 +1,4 @@
-# 2024 Indian General Elections – Case Study
+#  Indian General Elections 
 
 ## Project Overview
 This project analyzes the **2024 Indian General Elections (Lok Sabha)** using SQL.  
